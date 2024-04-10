@@ -70,7 +70,7 @@ This project aims to create an interactive dashboard using Power BI to analyze p
 
 ## Usage:
 - Users can interact with the Power BI dashboard to explore sales data.
-- Colleagues and clients can refer to the documented SQL queries and analysis for result validation.
+
 
 ## Additional Notes:
 - Ensure the versions of MS Excel, MS SQL Server, and Power BI match the specified requirements for accurate analysis.
